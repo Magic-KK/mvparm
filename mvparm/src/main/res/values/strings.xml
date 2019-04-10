@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVPArm</string>
+
+
+    <!--登录-->
+    <string name="act_toolbar_login">登录</string>
+
+    <string name="permission_refuse">请授予必须的权限</string>
+</resources>
